@@ -27,3 +27,8 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Website Mock-up
+
+## Link to Live Site
+https://cjmugs1.github.io/BCB-M1C-Code-Refactor/
