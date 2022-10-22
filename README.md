@@ -29,7 +29,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Website Mock-up
-![Website Mockup](assets/images/website-mockup.png)
+![Website Mockup](./assets/images/website-mockup.png)
 
 
 ## Link to Live Site
