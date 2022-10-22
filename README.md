@@ -29,6 +29,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Website Mock-up
+![Website Mockup](http://github.com/cjmugs1/BCB-M1C-Code-Refactor/assets/images/website-mockup.png)
+
 
 ## Link to Live Site
 https://cjmugs1.github.io/BCB-M1C-Code-Refactor/
